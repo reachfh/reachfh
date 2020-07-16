@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Most of my open source work is under my company, [Cogini](https://github.com/cogini):
+Most of my open source work is under [my company's account](https://github.com/cogini):
 
 * [multi-env-deploy](https://github.com/cogini/multi-env-deploy):
   Example of deploying complex real-world web apps to AWS EC2/ECS using Terraform, Ansible, and Packer.
